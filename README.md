@@ -28,3 +28,322 @@ https://www.linkedin.com/in/shailendra-kumar-ceh-v11/
 #[Source Code](https://github.com/shailu-coder/All_Python_Projects/tree/master/Age%20Calculator)
 
 ![Image Converter](https://github.com/shailu-coder/All_Python_Projects/blob/master/Age%20Calculator/output_age.PNG)
+
+##  Audiobook AI
+#[Source Code](https://github.com/shailu-coder/All_Python_Projects/tree/master/Audiobook%20AI)
+
+![Image Converter](https://github.com/shailu-coder/All_Python_Projects/blob/master/Audiobook%20AI/output.PNG)
+
+##  Amazone Price Tracker
+#[Source Code](https://github.com/shailu-coder/All_Python_Projects/tree/master/Amazone%20Price%20Tracker)
+
+##  Billing Software
+#[Source Code](https://github.com/shailu-coder/All_Python_Projects/tree/master/Billing%20Software)
+
+![Image Converter](https://github.com/shailu-coder/All_Python_Projects/blob/master/Billing%20Software/output.PNG)
+
+##  COLOR_GAME_TKINTER_GUI
+#[Source Code](https://github.com/shailu-coder/All_Python_Projects/tree/master/COLOR_GAME_TKINTER_GUI)
+
+![Image Converter](https://github.com/shailu-coder/All_Python_Projects/blob/master/COLOR_GAME_TKINTER_GUI/output.PNG)
+
+##  Calculator_in_python
+#[Source Code](https://github.com/shailu-coder/All_Python_Projects/tree/master/Calculator_in_python)
+
+![Image Converter](https://github.com/shailu-coder/All_Python_Projects/blob/master/Calculator_in_python/output.PNG)
+
+##  Currency convert
+#[Source Code](https://github.com/shailu-coder/All_Python_Projects/tree/master/Currency%20convert)
+
+![Image Converter](https://github.com/shailu-coder/All_Python_Projects/blob/master/Currency%20convert/output.PNG)
+
+##  Data Base Tkinter
+#[Source Code](https://github.com/shailu-coder/All_Python_Projects/tree/master/Data%20Base%20Tkinter)
+
+![Image Converter](https://github.com/shailu-coder/All_Python_Projects/blob/master/Data%20Base%20Tkinter/output.PNG)
+
+##  Desktop_Notifier
+#[Source Code](https://github.com/shailu-coder/All_Python_Projects/tree/master/Desktop_Notifier)
+
+![Image Converter](https://github.com/shailu-coder/All_Python_Projects/blob/master/Desktop_Notifier/output.PNG)
+
+##  GUI_Calendar
+#[Source Code](https://github.com/shailu-coder/All_Python_Projects/tree/master/GUI_Calendar)
+
+![Image Converter](https://github.com/shailu-coder/All_Python_Projects/blob/master/GUI_Calendar/output.PNG)
+
+##  Guess the Gibberish
+#[Source Code](https://github.com/shailu-coder/All_Python_Projects/tree/master/Guess%20the%20Gibberish)
+
+![Image Converter](https://github.com/shailu-coder/All_Python_Projects/blob/master/Guess%20the%20Gibberish/output.PNG)
+
+##  Image Editor
+#[Source Code](https://github.com/shailu-coder/All_Python_Projects/tree/master/Image%20Editor)
+
+![Image Converter](https://github.com/shailu-coder/All_Python_Projects/blob/master/Image%20Editor/output.png)
+
+##  ImageToPencilSketch
+#[Source Code](https://github.com/shailu-coder/All_Python_Projects/tree/master/ImageToPencilSketch)
+
+![Image Converter](https://github.com/shailu-coder/All_Python_Projects/blob/master/ImageToPencilSketch/output.jpg)
+
+##  Imageconvert
+#[Source Code](https://github.com/shailu-coder/All_Python_Projects/tree/master/Imageconvert)
+
+![Image Converter](https://github.com/shailu-coder/All_Python_Projects/blob/master/Imageconvert/output.PNG)
+
+##  Internet Speed
+#[Source Code](https://github.com/shailu-coder/All_Python_Projects/tree/master/Internet%20Speed)
+
+![Image Converter](https://github.com/shailu-coder/All_Python_Projects/blob/master/Internet%20Speed/output.PNG)
+
+##  Keyboard jump
+#[Source Code](https://github.com/shailu-coder/All_Python_Projects/tree/master/Keyboard%20jump)
+
+![Image Converter](https://github.com/shailu-coder/All_Python_Projects/blob/master/Keyboard%20jump/key_output.jpg)
+
+##  Language Translate
+#[Source Code](https://github.com/shailu-coder/All_Python_Projects/tree/master/Language%20Translate)
+
+![Image Converter](https://github.com/shailu-coder/All_Python_Projects/blob/master/Language%20Translate/output.png)
+
+##  Login and Registration app
+#[Source Code](https://github.com/shailu-coder/All_Python_Projects/tree/master/Login%20and%20Registration%20app)
+
+![Image Converter](https://github.com/shailu-coder/All_Python_Projects/blob/master/Login%20and%20Registration%20app/output.PNG)
+
+##  Multi_Stop_Watch
+#[Source Code](https://github.com/shailu-coder/All_Python_Projects/tree/master/Multi_Stop_Watch)
+
+![Image Converter](https://github.com/shailu-coder/All_Python_Projects/blob/master/Multi_Stop_Watch/multi_output.PNG)
+
+##  Music Player
+#[Source Code](https://github.com/shailu-coder/All_Python_Projects/tree/master/Music%20Player)
+
+![Image Converter](https://github.com/shailu-coder/All_Python_Projects/blob/master/Music%20Player/output.PNG)
+
+##  Notepad in Python
+#[Source Code](https://github.com/shailu-coder/All_Python_Projects/tree/master/Notepad%20in%20Python)
+
+![Image Converter](https://github.com/shailu-coder/All_Python_Projects/blob/master/Notepad%20in%20Python/output.PNG)
+
+##  PDF to TEXT
+#[Source Code](https://github.com/shailu-coder/All_Python_Projects/tree/master/PDF%20to%20TEXT)
+
+![Image Converter](https://github.com/shailu-coder/All_Python_Projects/blob/master/PDF%20to%20TEXT/output.PNG)
+
+##  Password Generator
+#[Source Code](https://github.com/shailu-coder/All_Python_Projects/tree/master/Password%20Generator)
+
+![Image Converter](https://github.com/shailu-coder/All_Python_Projects/blob/master/Password%20Generator/output.PNG)
+
+##  QR code reader
+#[Source Code](https://github.com/shailu-coder/All_Python_Projects/tree/master/QR%20code%20reader)
+
+##  Rock_Paper_Scissors
+#[Source Code](https://github.com/shailu-coder/All_Python_Projects/tree/master/Rock_Paper_Scissors)
+
+##  Scientific Calculator In Python
+#[Source Code](https://github.com/shailu-coder/All_Python_Projects/tree/master/Scientific%20Calculator%20In%20Python)
+
+![Image Converter](https://github.com/shailu-coder/All_Python_Projects/blob/master/Scientific%20Calculator%20In%20Python/OUTPUT.jpg)
+
+##  Screen Recording
+#[Source Code](https://github.com/shailu-coder/All_Python_Projects/tree/master/Screen%20Recording)
+
+![Image Converter](https://github.com/shailu-coder/All_Python_Projects/blob/master/Screen%20Recording/output.PNG)
+
+##  System and Hardware Info
+#[Source Code](https://github.com/shailu-coder/All_Python_Projects/tree/master/System%20and%20Hardware%20Info)
+
+![Image Converter](https://github.com/shailu-coder/All_Python_Projects/blob/master/System%20and%20Hardware%20Info/output.PNG)
+
+##  Tic Tac toe
+#[Source Code](https://github.com/shailu-coder/All_Python_Projects/tree/master/Tic%20Tac%20toe)
+
+![Image Converter](https://github.com/shailu-coder/All_Python_Projects/blob/master/Tic%20Tac%20toe/output.PNG)
+
+##  To_Do_Gui_app
+#[Source Code](https://github.com/shailu-coder/All_Python_Projects/tree/master/To_do_Gui_app)
+
+![Image Converter](https://github.com/shailu-coder/All_Python_Projects/blob/master/To_do_Gui_app/output.PNG)
+
+##  URL_Shortener
+#[Source Code](https://github.com/shailu-coder/All_Python_Projects/tree/master/URL_Shortener)
+
+![Image Converter](https://github.com/shailu-coder/All_Python_Projects/blob/master/URL_Shortener/output.PNG)
+
+##  cricket_game
+#[Source Code](https://github.com/shailu-coder/All_Python_Projects/tree/master/cricket_game)
+
+##  Dice
+#[Source Code](https://github.com/shailu-coder/All_Python_Projects/tree/master/dice)
+
+![Image Converter](https://github.com/shailu-coder/All_Python_Projects/blob/master/dice/output.PNG)
+
+##  Egg_catcher
+#[Source Code](https://github.com/shailu-coder/All_Python_Projects/tree/master/egg_catcher)
+
+![Image Converter](https://github.com/shailu-coder/All_Python_Projects/blob/master/egg_catcher/output.PNG)
+
+##  News_updater
+#[Source Code](https://github.com/shailu-coder/All_Python_Projects/tree/master/news_updater)
+
+##  Python-encode-decode-project
+#[Source Code](https://github.com/shailu-coder/All_Python_Projects/tree/master/python-encode-decode-project)
+
+![Image Converter](https://github.com/shailu-coder/All_Python_Projects/blob/master/python-encode-decode-project/output.PNG)
+
+##  Text_detection_in_image
+#[Source Code](https://github.com/shailu-coder/All_Python_Projects/tree/master/text_detection_in_image)
+
+![Image Converter](https://github.com/shailu-coder/All_Python_Projects/blob/master/text_detection_in_image/test.PNG)
+
+##  Typing_speed_test
+#[Source Code](https://github.com/shailu-coder/All_Python_Projects/tree/master/typing_speed_test)
+
+![Image Converter](https://github.com/shailu-coder/All_Python_Projects/blob/master/typing_speed_test/output.PNG)
+
+##  Youtube-downloader-project
+#[Source Code](https://github.com/shailu-coder/All_Python_Projects/tree/master/youtube-downloader-project)
+
+![Image Converter](https://github.com/shailu-coder/All_Python_Projects/blob/master/youtube-downloader-project/output.PNG)
+
+##  Youtube-downloader-project
+#[Source Code](https://github.com/shailu-coder/All_Python_Projects/tree/master/youtube-downloader-project)
+
+![Image Converter](https://github.com/shailu-coder/All_Python_Projects/blob/master/youtube-downloader-project/output.PNG)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
