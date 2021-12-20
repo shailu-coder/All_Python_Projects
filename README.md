@@ -19,6 +19,16 @@ https://www.linkedin.com/in/shailendra-kumar-ceh-v11/
 
 ![Image Converter](https://github.com/shailu-coder/All_Python_Projects/blob/master/Weather%20forecast/output.PNG)
 
+##  Real_time_editor_eel
+#[Source Code](https://github.com/shailu-coder/All_Python_Projects/tree/master/Real_time_editor_eel)
+
+![Image Converter](https://github.com/shailu-coder/All_Python_Projects/blob/master/Real_time_editor_eel/output.PNG)
+
+##  Alexa_virtual_assistant
+[Source Code](https://github.com/shailu-coder/All_Python_Projects/tree/master/Alexa_virtual_assistant)
+
+![Image Converter](https://github.com/shailu-coder/All_Python_Projects/blob/master/Alexa_virtual_assistant/output.PNG)
+
 ##  Snake Game
 [Source Code](https://github.com/shailu-coder/All_Python_Projects/tree/master/snake%20game)
 
@@ -61,6 +71,11 @@ https://www.linkedin.com/in/shailendra-kumar-ceh-v11/
 #[Source Code](https://github.com/shailu-coder/All_Python_Projects/tree/master/Data%20Base%20Tkinter)
 
 ![Image Converter](https://github.com/shailu-coder/All_Python_Projects/blob/master/Data%20Base%20Tkinter/output.PNG)
+
+##  Alphbets_star_pattern
+[Source Code](https://github.com/shailu-coder/All_Python_Projects/tree/master/Alphbets_star_pattern)
+
+![Image Converter](https://github.com/shailu-coder/All_Python_Projects/blob/master/Alphbets_star_pattern/output.PNG)
 
 ##  Desktop_Notifier
 #[Source Code](https://github.com/shailu-coder/All_Python_Projects/tree/master/Desktop_Notifier)
@@ -209,6 +224,38 @@ https://www.linkedin.com/in/shailendra-kumar-ceh-v11/
 
 ![Image Converter](https://github.com/shailu-coder/All_Python_Projects/blob/master/youtube-downloader-project/output.PNG)
 
+##  Corona_virus
+#[Source Code](https://github.com/shailu-coder/All_Python_Projects/tree/master/Corona_virus)
+
+##  Country_tracker_by_phone_number
+#[Source Code](https://github.com/shailu-coder/All_Python_Projects/tree/master/Country_tracker_by_phone_number)
+
+![Image Converter](https://github.com/shailu-coder/All_Python_Projects/blob/master/Country_tracker_by_phone_number/output.PNG)
+
+##  Cut_copy_compress_file
+#[Source Code](https://github.com/shailu-coder/All_Python_Projects/tree/master/Cut_copy_compress_file)
+
+##  Digital_date_and_time
+#[Source Code](https://github.com/shailu-coder/All_Python_Projects/tree/master/Digital_date_and_time)
+
+![Image Converter](https://github.com/shailu-coder/All_Python_Projects/blob/master/Digital_date_and_time/output.PNG)
+
+##  Login_Signup_Form_Django
+#[Source Code](https://github.com/shailu-coder/All_Python_Projects/tree/master/Login_Signup_Form_Django)
+
+![Image Converter](https://github.com/shailu-coder/All_Python_Projects/blob/master/Login_Signup_Form_Django/output.PNG)
+
+##  Screen_shot
+#[Source Code](https://github.com/shailu-coder/All_Python_Projects/tree/master/Screen_shot)
+
+![Image Converter](https://github.com/shailu-coder/All_Python_Projects/blob/master/Screen_shot/output.PNG)
+
+##  Telegram_adder_script
+#[Source Code](https://github.com/shailu-coder/All_Python_Projects/tree/master/Telegram_adder_script)
+
+##  Whatsapp_bot
+#[Source Code](https://github.com/shailu-coder/All_Python_Projects/tree/master/Whatsapp_bot)
+
 ##  AMONG US
 #[Source Code](https://github.com/shailu-coder/All_Python_Projects/tree/master/TURTLE_PROJECTS/AMONG%20US)
 
@@ -279,6 +326,9 @@ https://www.linkedin.com/in/shailendra-kumar-ceh-v11/
 
 ##  Start_pattern_turtle
 #[Source Code](https://github.com/shailu-coder/All_Python_Projects/tree/master/TURTLE_PROJECTS/start_pattern_turtle)
+
+##  Batch virus
+#[Source Code](https://github.com/shailu-coder/All_Python_Projects/tree/master/Batch%20virus)
 
 
 
