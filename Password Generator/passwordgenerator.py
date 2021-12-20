@@ -1,105 +1,66 @@
-# Python program to generate random
-# password using Tkinter module
-import random
-import pyperclip
 from tkinter import *
-from tkinter.ttk import *
+from tkinter.ttk import Combobox
+from tkinter import messagebox
+import string, random
 
 # This Project Is Developed By Shailendra Singh Admin Of @Python_Coderz_ Page - Instagram
 # Dm Us If You Have Any Query- https://www.instagram.com/python_Coderz_/
 
-# Function for calculation of password
-def low():
-	entry.delete(0, END)
-
-	# Get the length of password
-	length = var1.get()
-
-	lower = "abcdefghijklmnopqrstuvwxyz"
-	upper = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz"
-	digits = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789 !@#$%^&*()"
-	password = ""
-
-	# if strength selected is low
-	if var.get() == 1:
-		for i in range(0, length):
-			password = password + random.choice(lower)
-		return password
-
-	# if strength selected is medium
-	elif var.get() == 0:
-		for i in range(0, length):
-			password = password + random.choice(upper)
-		return password
-
-	# if strength selected is strong
-	elif var.get() == 3:
-		for i in range(0, length):
-			password = password + random.choice(digits)
-		return password
-	else:
-		print("Please choose an option")
-
-
-# Function for generation of password
-def generate():
-	password1 = low()
-	entry.insert(10, password1)
-
-
-# Function for copying password to clipboard
-def copy1():
-	random_password = entry.get()
-	pyperclip.copy(random_password)
-
-
-# Main Function
-
-# create GUI window
 root = Tk()
-var = IntVar()
-var1 = IntVar()
+root.geometry("500x300")
+root.title("Password Generator - @Python_Coderz_")
+root.config(bg="#f0932b")
+root.resizable(False, False)
 
-# Title of your GUI window
-root.title("Password Generator- @Python_Coderz_")
+def password_generate():
+    try:
+        length_password = solidboss.get()
+        small_letters = string.ascii_lowercase
+        capital_letters = string.ascii_uppercase
+        digits = string.digits
+        special_character = string.punctuation
+        all_list = []
+        all_list.extend(list(small_letters))
+        all_list.extend(list(capital_letters))
+        all_list.extend(list(digits))
+        all_list.extend(list(special_character))
+        random.shuffle(all_list)
+        password.set("".join(all_list[0:length_password]))
+    except:
+        messagebox.askretrycancel("A Problem Has Been Occured", "Please Try Again")
 
-# create label and entry to show
-# password generated
-Random_password = Label(root, text="Password")
-Random_password.grid(row=0)
-entry = Entry(root)
-entry.grid(row=0, column=1)
+all_no = {"1" : "1", "2" : "2", "3" : "3", "4" : "4","5" : "5", "6" : "6", "7" : "7", "8" : "8", "9" : "9", "10" : "10", "11" : "11", "12" : "12", "13" : "13", "14" : "14", "15" : "15", "16" : "16", "17" : "17", "18" : "18", "19" : "19", "20" : "20", "21" : "21", "22" : "22", "23" : "23", "24" : "24", "25" : "25", "26" : "26", "27" : "27", "28" : "28", "29" : "29", "30" : "30"}
 
-# create label for length of password
-c_label = Label(root, text="Length")
-c_label.grid(row=1)
+Title = Label(root, text="Password Generator", bg="beige", fg="black", font=("futura", 20, "bold"))
+Title.pack(anchor="center", pady="20px")
 
-# create Buttons Copy which will copy
-# password to clipboard and Generate
-# which will generate the password
-copy_button = Button(root, text="Copy", command=copy1)
-copy_button.grid(row=0, column=2)
-generate_button = Button(root, text="Generate", command=generate)
-generate_button.grid(row=0, column=3)
+length = Label(root, text="Select the Length of Your Password :- ", fg="darkgreen", bg="beige", font=("ubuntu", 12))
+length.place(x="20px", y="70px")
 
-# Radio Buttons for deciding the
-# strength of password
-# Default strength is Medium
-radio_low = Radiobutton(root, text="Low", variable=var, value=1)
-radio_low.grid(row=1, column=2, sticky='E')
-radio_middle = Radiobutton(root, text="Medium", variable=var, value=0)
-radio_middle.grid(row=1, column=3, sticky='E')
-radio_strong = Radiobutton(root, text="Strong", variable=var, value=3)
-radio_strong.grid(row=1, column=4, sticky='E')
-combo = Combobox(root, textvariable=var1)
+def on_enter(e):
+    generate_btn['bg'] = "grey"
+    generate_btn['fg'] = "white"
 
-# Combo Box for length of your password
-combo['values'] = (8, 9, 10, 11, 12, 13, 14, 15, 16,
-				17, 18, 19, 20, 21, 22, 23, 24, 25,
-				26, 27, 28, 29, 30, 31, 32, "Length")
-combo.current(0)
-combo.bind('<<ComboboxSelected>>')
-combo.grid(column=1, row=1)
+def on_leave(e):
+    generate_btn['bg'] = "orange"
+    generate_btn['fg'] = "black"   
 
-# start the GUI
+solidboss = IntVar()
+Selector = Combobox(root, textvariable=solidboss, state="readonly")
+Selector['values'] = [l for l in all_no.keys()]
+Selector.current(7)
+Selector.place(x="240px", y="72px")
+
+generate_btn = Button(root, text="Generate Password", bg="orange", fg="black", font=("ubuntu", 15), cursor="hand2", command=password_generate)
+generate_btn.bind("<Enter>", on_enter)
+generate_btn.bind("<Leave>", on_leave)
+generate_btn.pack(anchor="center", pady="50px")
+
+result_lable = Label(root, text="Generated Password Here :- ", bg="beige", fg="darkgreen", font=("ubuntu", 12))
+result_lable.place(x="20px", y="160px")
+
+password = StringVar()
+password_final = Entry(root, textvariable= password, state="readonly", fg="blue", font=("ubuntu", 15))
+password_final.place(x="200px", y="160px")
+
 root.mainloop()
