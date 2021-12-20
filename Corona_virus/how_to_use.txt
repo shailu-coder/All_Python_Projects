@@ -1,0 +1,27 @@
+Warning you can damage your computer without having some knowleadge about the script
+it will not be my responsiblity if you do... it is kind a virus script!!!!!
+
+please watch my video to know how it works properly-
+https://www.youtube.com/watch?v=mA-276bTChc
+
+you must have python3 installed in your computer...
+
+and installed some python library
+
+glob- pip install glob
+os- pip install os
+
+and now you can run the script... and the initial password of locker file is 'password'
+
+tip:-you can modify the code like by using cryptography you can encrypt your file...
+and leave a note in everyfiles too make it more like ransomware...
+
+if you are getting any type of error while running it...
+then let me know about it...
+
+# This Project Is Developed By Shailendra Singh Admin Of @Python_Coderz_ Page - Instagram
+# Dm Us If You Have Any Query main page- https://www.instagram.com/python_Coderz_/
+fb-http:www.facebook.com/shailendrakr007
+insta-http:www.instagram.com/shailendra_kr_007
+
+

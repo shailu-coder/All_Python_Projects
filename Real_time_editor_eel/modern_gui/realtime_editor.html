@@ -1,0 +1,57 @@
+<html>
+
+  <head>
+    <title>Real time Editor - @python_coderz</title>
+
+    <script type="text/javascript" src="/eel.js">
+    
+    
+            
+    </script>
+	
+	<script type="text/javascript">
+    function refresh(){
+    var textContent = document.getElementById('editor-textarea').value; document.getElementById('viewer').srcdoc = textContent;
+}
+    </script>
+
+    <style>
+      *{
+          padding: 0;
+          margin: o;
+        }
+        .main{
+            background:#ecf0f1;
+            width: 100%;
+            height: 100%;
+            display: inline-flex;
+        }
+        #editor-textarea{
+            width: 100%;
+            height: 95%;
+            margin: 10px;
+            padding: 5px;
+        }
+        #viewer{
+            background: white;
+            border: none;
+            width: 100%;
+            height: 95%;
+            margin: 10px;
+            border: 1px solid #3498db;
+        }
+    </style>
+  </head>
+
+  <body>
+    <div class="main">
+      <textarea id="editor-textarea" onkeyup = "refresh()" placeholder="Start coding here..."></textarea>
+      <iframe id="viewer"></iframe>
+    </div>
+
+    
+  </body>
+
+  
+
+</html>
