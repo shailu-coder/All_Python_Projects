@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shailu-coder&label=Profile%20views&color=0e75b6&style=flat" alt="shailu-coder" /> </p>
 
-## My Linkedin Profile ❤💛
+## Follow On Linkedin ❤💛
 https://www.linkedin.com/in/shailendra-kumar-ceh-v11/
 
 ##  Email Sender(Gmail Clone)
