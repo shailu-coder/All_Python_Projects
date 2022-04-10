@@ -120,7 +120,7 @@ https://www.linkedin.com/in/shailendra-kumar-ceh-v11/
 ##  Language Translate
 #[Source Code](https://github.com/shailu-coder/All_Python_Projects/tree/master/Language%20Translate)
 
-![Image Converter](https://github.com/shailu-coder/All_Python_Projects/blob/master/Language%20Translate/output.png)
+![Image Converter](https://github.com/shailu-coder/All_Python_Projects/blob/master/Language%20Translate/out.png)
 
 ##  Login and Registration app
 #[Source Code](https://github.com/shailu-coder/All_Python_Projects/tree/master/Login%20and%20Registration%20app)
