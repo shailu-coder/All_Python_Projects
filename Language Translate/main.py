@@ -10,7 +10,7 @@ from tkinter import messagebox
 
 
 root = Tk()
-root.title('Langauge Translator')
+root.title('Langauge Translator (Python_Coderz_)')
 root.geometry('530x330')
 root.resizable(False, False)
 root.config(bg='#6495ED')
